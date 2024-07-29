@@ -1,5 +1,5 @@
-mod p8;
+mod p10;
 
 fn main() {
-    p8::main();
+    p10::main();
 }
