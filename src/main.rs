@@ -1,5 +1,5 @@
-mod p35;
+mod p32;
 
 fn main() {
-    p35::main();
+    p32::main();
 }
