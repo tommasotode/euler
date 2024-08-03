@@ -1,5 +1,5 @@
-mod p89;
+mod p65;
 
 fn main() {
-    let _ = p89::main();
+    let _ = p65::main();
 }
