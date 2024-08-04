@@ -1,5 +1,5 @@
-mod p25;
+mod p49;
 
 fn main() {
-    p25::main();
+    p49::main();
 }
