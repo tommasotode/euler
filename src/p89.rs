@@ -47,7 +47,7 @@ fn decimal_to_roman(n: String) -> String {
 }
 
 pub fn main() -> io::Result<()> {
-    let path = Path::new("inputs/p89.txt");
+    let path = Path::new("inputs/i89.txt");
     let file = File::open(&path)?;
     let reader = BufReader::new(file);
 

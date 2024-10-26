@@ -4,7 +4,7 @@ use std::io::{self, BufRead, BufReader};
 use std::path::Path;
 
 pub fn main() -> io::Result<()> {
-    let path = Path::new("inputs/p79.txt");
+    let path = Path::new("inputs/i79.txt");
     let file = File::open(&path)?;
 
     let reader = BufReader::new(file);
